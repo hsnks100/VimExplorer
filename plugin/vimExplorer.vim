@@ -9,6 +9,7 @@
 " Usage:        :h VimExplorer
 "
 "==================================================
+"commit test
 
 
 " See if we are already loaded, thanks to Dennis Hostetler.
